@@ -23,4 +23,4 @@ streamlit run app.py
 \`\`\`
 
 ## Demo
-[Add your live link here once deployed]
+https://movie-recommender-2304.streamlit.app
